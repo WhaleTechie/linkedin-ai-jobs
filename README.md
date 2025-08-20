@@ -1,11 +1,12 @@
 
 **Project Structure**
-.
-├── airflow_dags/
-│   └── linkedin_jobs_dag.py
-├── dbt_project/
-│   ├── models/
-│   │   ├── stg_jobs.sql
-│   │   ├── job_skills.sql
-│   │   └── skill_trends.sql
-│   └── dbt_project.yml
+<br>.
+<br>├── airflow_dags/
+<br>│   └── linkedin_jobs_dag.py
+<br>├── dbt_project/
+<br>│   ├── models/
+<br>│   │   ├── stg_jobs.sql
+<br>│   │   ├── job_skills.sql
+<br>│   │   └── skill_trends.sql
+<br>│   └── dbt_project.yml
+<br>
